@@ -1,6 +1,6 @@
 # 🔐 Login & Register Web Interface
 
-A responsive and modern login/register web interface built using HTML, CSS, and JavaScript. It features smooth transitions between forms and a clean, user-friendly design.
+A  modern login/register web interface built using HTML, CSS, and JavaScript. It features smooth transitions between forms and a clean, user-friendly design.
 
 🔗 **Live Demo**: [Login-Register](https://cyriljaiswal.github.io/Login-Register/)
 
